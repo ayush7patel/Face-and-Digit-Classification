@@ -1,0 +1,229 @@
+Classifier: mostFrequent
+Data: digits
+100 training
+100 testing
+['4.88758087158e-05']
+14.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+['0.0500619411469']
+65.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+['1.39254689217']
+48.0
+
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+1000 training
+100 testing
+['0.246374130249']
+76.0
+
+Classifier: mostFrequent
+Data: faces
+100 training
+100 testing
+['5.48362731934e-05']
+53.0
+
+Classifier: naiveBayes
+Data: faces
+100 training
+100 testing
+['0.295254945755']
+83.0
+
+Classifier: perceptron
+Data: faces
+100 training
+100 testing
+['1.64077591896']
+81.0
+
+Classifier: perceptron
+Data: faces
+10 training
+100 testing
+['0.166459083557']
+59.0
+
+Classifier: perceptron
+Data: faces
+10 training
+100 testing
+['0.171711206436']
+59.0
+
+Classifier: mostFrequent
+Data: digits
+100 training
+100 testing
+['3.79085540771e-05']
+14.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+['0.0476579666138']
+65.0
+
+Classifier: perceptron
+Data: faces
+10 training
+100 testing
+['0.165471792221']
+59.0
+
+Classifier: mostFrequent
+Data: digits
+100 training
+100 testing
+['3.981590271e-05']
+14.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+['0.0464479923248']
+65.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+['1.28158807755']
+48.0
+
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+1000 training
+100 testing
+['0.230887174606']
+76.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+['1.41126990318']
+48.0
+
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+['1.38951015472']
+48.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+['1.37687802315']
+48.0
+
+Classifier: naiveBayes
+Data: digits
+1000 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: faces
+30 training
+100 testing
+Classifier: perceptron
+Data: digits
+100 training
+100 testing
+['1.37636494637']
+48.0
+
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+Classifier: naiveBayes
+Data: digits
+100 training
+100 testing
+['0.0504100322723']
+65.0
+
+Classifier: perceptron
+Data: faces
+100 training
+100 testing
+['1.76901292801']
+81.0
+
+Classifier: perceptron
+Data: faces
+50 training
+100 testing
+['0.858558177948']
+62.0
+
